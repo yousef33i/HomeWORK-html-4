@@ -1,0 +1,7 @@
+font{ font-size:40px; color:red;} 
+
+table , td , th{font-size:40px; border:2px solid; column-span:2; text-align:center;}
+
+td {font-size:40px; border:2px solid black; column-span:2; text-align:center; color:grey;}
+
+img{width:20%; height:20%; align-items:center;}
